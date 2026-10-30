@@ -1,2 +1,1 @@
-# hobo
-Launcher do jogo Hobo 
+acho que igual a muitos de vcs q estão aq queriam isso igual eu ne?kkk tipo é um launcher que contem todos os hobos do 1 ao 7 num só app que da pra ser baixado diretamente pro seu pc e nem de net precisa kakkak
